@@ -1,0 +1,3 @@
+1580219159849	Rename field 'userRating'
+1580383000444	Extract method 'getUserRating'
+1580383042323	Extract method 'getCatalogItem'

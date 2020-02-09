@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\Productivity\Downloads\Documents\Coding\Learning Repository\Movie Rating PlatForm - Microservice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4276731227.index
+\data-parser\src\main\java
+D:\Productivity\Downloads\Documents\Coding\Learning Repository\Movie Rating PlatForm - Microservice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1366013496.index
+\data-parser\src\main\java
